@@ -1,2 +1,3 @@
-Muhammad Osman Ansari
-BCS-1A
+- Muhammad Osman Ansari
+- BCS-1A
+- - My hobby is football
