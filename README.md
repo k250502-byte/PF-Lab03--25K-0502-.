@@ -23,6 +23,6 @@ I like programming and learning new things.
 1. Osman
 2. Irshad
 3. Hasan
-## One Bload + Italic Statement
+## One Bold + Italic Statement
 **_This text is bold and italic_**
 
